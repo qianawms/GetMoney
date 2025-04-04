@@ -3,7 +3,7 @@ import pandas as pd
 import numpy as np
 from datetime import datetime
 import pytz
-from tradingview_ta import TA_Handler, Interval
+from tradingview_ta import
 import time
 
 # --- App Configuration ---
